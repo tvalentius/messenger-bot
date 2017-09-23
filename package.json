@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/tvalentius/messenger-bot/issues"
   },
-  "homepage": "https://github.com/tvalentius/messenger-bot#readme"
+  "homepage": "https://github.com/tvalentius/messenger-bot#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "facebook-messenger-bot": "^0.2.0"
+  }
 }
