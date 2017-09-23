@@ -1,0 +1,19 @@
+{
+  "name": "messenger-bot",
+  "version": "1.0.0",
+  "description": "messenger bot example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvalentius/messenger-bot.git"
+  },
+  "author": "Trimikha Valentius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvalentius/messenger-bot/issues"
+  },
+  "homepage": "https://github.com/tvalentius/messenger-bot#readme"
+}
